@@ -1,0 +1,18 @@
+<resources>
+    <string-array name="branch">
+        <item>Civil Engineering</item>
+        <item>Computer Engieering</item>
+        <item>Mechanical Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Artificial Intelligence and Data Science</item>
+        <item>Robotics and Automation</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>FE</item>
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+
+</resources>
